@@ -71,6 +71,7 @@ nav {
 
 .nav-profile-img{
   width: 40px;
+  height: 40px;
   border-radius: 50%;
   display: block;
   cursor: pointer;
@@ -136,6 +137,7 @@ nav {
 }
 .sidebar-profile-info img{
   width: 90px;
+  height: 90px;
   border-radius: 50%;
   background: #fff;
   padding: 4px;
@@ -482,6 +484,7 @@ nav {
 }
 .user-info img{
   width: 50px;
+  height: 50px;
   border-radius: 50%;
   margin-right: 15px;
 }
